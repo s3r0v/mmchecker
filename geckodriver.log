@@ -1,0 +1,51 @@
+1638715118929	geckodriver	INFO	Listening on 127.0.0.1:54118
+1638715120190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileikxeXk"
+1638715125522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileikxeXk/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1638715134733	Marionette	INFO	Listening on port 54129
+1638715135338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/background-5.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/background-6.js, line 46: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript error: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-2.js, line 1: TypeError: e is undefined
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/background-5.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/background-6.js, line 46: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/modules/addonManager.js, line 250: NS_ERROR_NOT_INITIALIZED
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript error: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-2.js, line 1: TypeError: e is undefined
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-4.js, line 1: unreachable code after return statement
+JavaScript error: moz-extension://13b1d0f3-c0b2-b645-bd30-b6923cbe3d86/ui-2.js, line 1: TypeError: e is undefined
+1638715518528	geckodriver	INFO	Listening on 127.0.0.1:54399
+1638715519089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileVzalTc"
+1638715524681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileVzalTc/search.json.mozlz4", (void 0)))
+1638715533005	Marionette	INFO	Stopped listening on port 54129
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1638715535827	Marionette	INFO	Listening on port 54410
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638715536690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
